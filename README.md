@@ -1,1 +1,9 @@
+# Windows-10 Lite X64
 # Windows-10-Lite-X64
+This is a Liteweight Version of Windows 10...
+## This ISO contains 21H2 version of this Windows 10 Lite
+### [Watch the video](https://youtu.be/iHiRv5ofhlk?si=ydG8ez2XSJagvXIU) if you know Hindi or Urdu,
+This is so lightweight that need 5gb disk space and 1gb ram to go...
+I don't know the real or not real requirement but I saw it in thumbnail...
+### [Download this ISO file](https://download2264.mediafire.com/7qj94ym1a7rgjFVARBKr89wi3XaracQ89u20EJy6gcCZLUs_1W8chttWgngYjttG8gO150qpbQgHkFX7e1osRt-YnNaWQpDFsvz-zQoEiQMkxZ-4pC8wAJedEd2YZ8leIuYqowuf93cH1JVcqiOFXNeYeOZGp_dKHwvUT2YxtmF-qjdD/hjwwc7qixzqky4x/tiny10+21H2+x64+beta+1.iso)
+Enjoyy!!
