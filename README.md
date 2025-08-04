@@ -1,5 +1,4 @@
 # Windows-10 Lite X64
-# Windows-10-Lite-X64
 This is a Liteweight Version of Windows 10...
 ## This ISO contains 21H2 version of this Windows 10 Lite
 ### [Watch the video](https://youtu.be/iHiRv5ofhlk?si=ydG8ez2XSJagvXIU) if you know Hindi or Urdu,
